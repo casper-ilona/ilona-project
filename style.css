@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+    text-align: center;
+    padding: 100px 0 100px 0;
+}
+
+img {
+    width: 225px;
+    height: 237px;
+}
+.photo1 img:hover{
+    opacity: 0.5;
+}
+.photo2 img:hover{
+    opacity: 0.5;
+}
+.photo3 img:hover{
+    opacity: 0.5;
+}
